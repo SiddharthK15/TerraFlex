@@ -3,3 +3,5 @@ Problem statement - Our project introduces an innovative wheel designed to enhan
 Solution - Our wheel addresses these challenges by integrating adaptive spring mechanisms that allow the wheel to dynamically adjust to surface irregularities. TerraFlex promises a smoother ride experience while maintaining efficiency on paved roads. 
 
 Objectives - Create a wheel that is equally efficient on smooth roads and rough terrain, Ensure stability by using spring suspensions inside the wheel, as opposed to spokes, Avoid punctures as the wheel is airless
+
+![Licensing information](https://github.com/SiddharthK15/TerraFlex/assets/120800459/fd6edffd-e0b4-4782-8517-a52c4bd1976b)
